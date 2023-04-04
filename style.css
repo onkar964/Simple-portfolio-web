@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+header {
+    background-color: #e0ebe8;
+    padding: 3em;
+}
+footer{
+    color: black;
+    word-spacing: 2em;
+    background-color: #53bc9d;
+}
+img {
+    display: inline-block;
+    object-fit:cover;
+  }
+div {
+    display: block;
+  }
+body{
+    color: #53bc9d;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #53bc9d;
+}
+h2 h3{
+    font-family: 'Montserrat', sans-serif;
+    color: green;
+}
+p{
+    color: black;
+}
+.av2{
+    position: absolute;
+    width: 3%;
+    height: auto;
+}
+.sec1{
+    margin: auto; 
+    height:auto;
+    position: relative;
+    background-color: #e0ebe8;
+    padding: auto;
+}
+.sec2{
+    margin: auto; 
+    height:auto;
+    position: relative;
+    background-color: #e0ebe8;
+    padding: auto;
+}
+
+#cloud_top{
+    width: 5%;
+    height: auto;
+    position: absolute;
+    right: 400px;
+    top: -10px;
+    padding: auto;
+}
+#cloud_bottom{
+    width: 5%;
+    height: auto;
+    position: absolute;
+    left: 350px;
+    padding: auto;
+}
+#hill{
+    width: 60%;
+    height: auto;
+}
+
+
+.section1{
+    margin: auto; 
+    height:auto;
+    position: relative;
+    padding: auto;
+}
+#wd{
+    width: 25%;
+    height: auto;
+    padding: auto;
+    position: absolute;
+    right: 600px;
+}
+
+.section2{
+    margin: auto; 
+    height:auto;
+    position: relative;
+    padding: auto;
+}
+#ds{
+    width: 20%;
+    height: auto;
+    position: absolute;
+    left: 600px;
+    padding: auto;
+    top: 5px;
+}
+.myskills{
+    text-align: left;
+    font-family: 'Merriweather', serif;
+}
